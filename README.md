@@ -6,7 +6,7 @@
 
 **Learning Full Stack Web Developer & FiveM Scripter**
 
-  **most repos on here will be fivem scripts**
+ **Most repos on here will be FiveM scripts though**
 
 <br/>
 
