@@ -6,6 +6,8 @@
 
 **Learning Full Stack Web Developer & FiveM Scripter**
 
+  **most repos on here will be fivem scripts**
+
 <br/>
 
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org)
